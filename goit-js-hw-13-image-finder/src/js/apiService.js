@@ -13,3 +13,8 @@ function fetchCard(searchQuery, pageNumber){
 
 export default {fetchCard}
 
+
+
+
+
+
